@@ -1,0 +1,1 @@
+Como o App é o componente raiz, deixamos ele dentro do BrowserRouter, pois sabemos que todas as rotas estarão dentro dele.

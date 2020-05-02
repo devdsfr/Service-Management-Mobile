@@ -1,0 +1,3 @@
+O componente Switch é o responsável por alternar os componentes de acordo com a rota. Já o Route representa a rota em si. Note que temos nesse segundo componente as propriedades path e component que indicam, respectivamente, a rota e o componente referente a ela.
+
+Na primeira rota temos também a propriedade exact, que define que essa rota só deve ser acionada se o endereço acessado for exatamente a raiz da aplicação (/).
