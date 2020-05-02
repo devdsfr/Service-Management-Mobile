@@ -1,0 +1,7 @@
+Linha 1: Importamos a constante URL_API do arquivo base.js que se encontra no mesmo diretório;
+
+Linha 3: Exportamos uma função chamada consultarFaturamento, que espera como parâmetro uma função de callback;
+
+Linha 4: Fazemos uma requisição ao endpoint de consultas do web service. Aqui usamos o recurso de template strings do JavaScript, com o qual podemos inserir expressões dentro da string, desde que ela seja limitada por acentos graves (símbolo `);
+
+Linha 5:Quando a requisição é finalizada, convertemos o resultado em formato JSON e o repassamos para a função de callback.

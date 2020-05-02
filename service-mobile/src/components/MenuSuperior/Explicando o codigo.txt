@@ -1,0 +1,1 @@
+O componente Link desempenha função semelhante à da tag <a> do HTML, ou seja, representa um link dentro da aplicação. Na propriedade to informamos a rota para a qual ele redireciona.

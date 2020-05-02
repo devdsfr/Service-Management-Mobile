@@ -1,0 +1,12 @@
+Linha 1: importamos o módulo React e sua classe Component;
+
+Linha 3: criamos a classe com o mesmo nome do arquivo, herdando de Component;
+
+Linha 4: todo componente do React deve possuir o método render, que é responsável por renderizá-lo;
+
+Linha 5: o retorno do método render pode ser um código HTML, já que estamos usando JSX. Como aqui queremos definir o HTML em várias linhas, podemos colocar o código dentro de parênteses.
+
+Linha 13: exportamos a classe criada, assim ela poderá ser importada posteriormente onde precisar ser usada.
+
+
+O componente Link desempenha função semelhante à da tag <a> do HTML, ou seja, representa um link dentro da aplicação. Na propriedade to informamos a rota para a qual ele redireciona.

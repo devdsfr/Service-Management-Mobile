@@ -1,0 +1,20 @@
+Linhas 7 a 14 e 30 a 37: aqui, como se trata de um valor monetário, usamos a função toLocaleString do próprio JavaScript. Passamos como parâmetro as configurações de localidade e moeda que devem ser usadas. Nesse caso, Real do Brasil;
+
+15 a 20 e 38 a 43: usamos a classe badge do Bootstrap para exibir o valor percentual que representa uma comparação fictícia desse dado com os do mês anterior;
+--------------------------------------------
+
+Linha 1: Importamos o módulo React e sua classe Component, passo necessário para todo componente;
+
+Linha 3: Criamos a classe com o mesmo nome do arquivo, herdando de Component;
+
+Linha 4: Adicionamos o construtor do componente para que dentro dele possamos inicializar o seu estado;
+
+Linha 5: Invocamos o construtor da classe pai;
+
+Linhas 6 a 8: O state é um objeto interno de todo componente. Ele é usado para definir, como o nome sugere, o estado do componente. Para isso ele pode ter uma estrutura variável. Aqui definimos o state com uma estrutura igual àquela que será recebida do web service posteriormente isso facilitará a atualização desses dados mais adiante;
+
+Linhas 11 a 18: No método componentDidMount fazemos uma requisição à API e com os dados recebidos atualizamos o state do componente;
+
+Linha 20: Todo componente do React deve possuir o método render, que é responsável por renderizá-lo;
+
+Linha 27: Exportamos a classe criada, assim ela poderá ser importada posteriormente onde precisar ser usada.

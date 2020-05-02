@@ -1,0 +1,5 @@
+Linha 1: importamos a constante URL_API do arquivo base.js que se encontra no mesmo diretório;
+
+Linha 3: exportamos uma função chamada consultarResumo;
+
+Linha 4: fazemos uma requisição ao endpoint de consultas do web service. Aqui usamos o recurso de template strings do JavaScript, com o qual podemos inserir expressões dentro da string, desde que ela seja limitada por acentos graves (símbolo `). Quando a requisição é finalizada, convertemos o corpo da resposta para JSON. Isso nos retornará uma promise, que será devolvida como resultado da função consultarResumo.
