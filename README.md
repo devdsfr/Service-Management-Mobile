@@ -1,24 +1,11 @@
-# README
+i there 👋
+I'm Loiane Groner, I'm a Software Engineer at Citibank, and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I love contributing to the community with blog posts, videos and books.
 
-Things you may want to cover:
+Twitter Follow Linkedin: loiane Youtube: loianegroner Twitch: loianegroner
 
-* Ruby version
+⚡ Technologies
+These are some of the technologies and tools that I work with:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Java Spring JavaScript Nodejs HTML5 CSS3 Sass Bootstrap TypeScript Angular Sencha Ionic NestJS Microsoft SQL Server MongoDB MySQL Docker Microsoft Azure Google Cloud Firebase Oracle Cloud Git GitHub BitBucket JIRA JFrog IntelliJ Eclipse VSCode
