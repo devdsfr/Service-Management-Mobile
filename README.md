@@ -1,6 +1,3 @@
-i there 👋
-I'm Loiane Groner, I'm a Software Engineer at Citibank, and I've been working in tech since 2006. I'm from Brazil, and I'm currently living in beautiful Florida.
-
 I love contributing to the community with blog posts, videos and books.
 
 Twitter Follow Linkedin: loiane Youtube: loianegroner Twitch: loianegroner
